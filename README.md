@@ -11,12 +11,12 @@ Pre-configured Tools: Integrated ESLint, Prettier, and Husky for consistent code
 ## Getting Started
 To create a new project based on this blueprint:
 
-*Click "Use this template" on the GitHub repository page.
-*Clone your new repository locally.
-*Install dependencies with npm install or yarn install.
-*Rename .env.example to .env.local and update your environment variables.
-*Start the development server with npm run dev or yarn dev.
-*Begin crafting your amazing project!
+* Click "Use this template" on the GitHub repository page.
+* Clone your new repository locally.
+* Install dependencies with npm install or yarn install.
+* Rename .env.example to .env.local and update your environment variables.
+* Start the development server with npm run dev or yarn dev.
+* Begin crafting your amazing project!
 
 ## Customization
 Easily tweak styles, components, and configurations to suit your project's needs. Refer to the individual documentation for Tailwind, ShadcnUI, and RadixUI for in-depth customization options.
