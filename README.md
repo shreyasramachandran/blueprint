@@ -13,9 +13,9 @@ To create a new project based on this blueprint:
 
 * Click "Use this template" on the GitHub repository page.
 * Clone your new repository locally.
-* Install dependencies with npm install or yarn install.
-* Rename .env.example to .env.local and update your environment variables.
-* Start the development server with npm run dev or yarn dev.
+* Install dependencies with ```npm install``` or ```yarn install```.
+* Rename ```.env.example``` to ```.env.local``` and update your environment variables.
+* Start the development server with ```npm run dev``` or ```yarn dev```.
 * Begin crafting your amazing project!
 
 ## Customization
