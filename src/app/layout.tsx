@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Theme, ThemePanel } from '@radix-ui/themes';
-import '@radix-ui/themes/styles.css';
+// import '@radix-ui/themes/styles.css';
 import "./globals.css";
 
 export const metadata: Metadata = {
@@ -17,7 +17,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body><Theme>{children}<ThemePanel /></Theme></body>
+      <body>{children}</body>
     </html>
   );
 }
