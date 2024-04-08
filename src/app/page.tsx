@@ -3,7 +3,7 @@ import { Button } from '@radix-ui/themes';
 export default function Home() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <Button>Let's go</Button>
+      <Button>Let&apos;s go</Button>
     </main>
   );
 }
