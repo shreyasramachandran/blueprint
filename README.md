@@ -1,5 +1,5 @@
 # Blueprint
-This Next.js blueprint is a highly optimized, plug-and-play starter template designed to kickstart the development of web applications. It's built with best practices and scalability in mind, leveraging the powerful combination of Next.js, TypeScript, and Tailwind CSS for a robust developer experience. With pre-configured routing, state management, and UI components from ShadcnUI and RadixUI, this blueprint streamlines the development process, allowing you to focus on creating unique, high-performance applications.
+This Next.js blueprint is a highly optimized, plug-and-play starter template designed to kickstart the development of web applications. It's built with best practices and scalability in mind, leveraging the powerful combination of Next.js, TypeScript, and Tailwind CSS for a robust developer experience. With pre-configured routing, state management, and UI components from RadixUI, this blueprint streamlines the development process, allowing you to focus on creating unique, high-performance applications.
 
 ## Features
 Next.js Framework: Leverage server-side rendering and static site generation features for SEO-friendly and performant web apps.
